@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Teams.Webhook")]
 [assembly: AssemblyDescription("A library that allows you to post Message Cards to Microsoft Teams")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Alex Markessinis")]
 [assembly: AssemblyProduct("Teams.Webhook")]
 [assembly: AssemblyCopyright("MIT 2021")]
 [assembly: AssemblyTrademark("")]
