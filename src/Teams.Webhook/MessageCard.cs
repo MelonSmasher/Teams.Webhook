@@ -30,6 +30,8 @@ namespace Teams.Webhook
 
         public string Text { get; set; }
 
+        public string ThemeColor { get; set; }
+
         public string Summary
         {
             get
